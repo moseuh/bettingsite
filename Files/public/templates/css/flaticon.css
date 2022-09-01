@@ -1,0 +1,51 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 09/06/2019 15:07
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+      font-family: Flaticon;
+      font-size: inherit;
+      font-style: normal;
+}
+
+.flaticon-electric-car:before { content: "\f100"; }
+.flaticon-battery:before { content: "\f101"; }
+.flaticon-pair-of-gears:before { content: "\f102"; }
+.flaticon-steering-wheel:before { content: "\f103"; }
+.flaticon-break:before { content: "\f104"; }
+.flaticon-seat-belt:before { content: "\f105"; }
+.flaticon-facebook-placeholder-for-locate-places-on-maps:before { content: "\f106"; }
+.flaticon-envelope:before { content: "\f107"; }
+.flaticon-phone-receiver:before { content: "\f108"; }
+.flaticon-magnifying-glass:before { content: "\f109"; }
+.flaticon-shopping-bag:before { content: "\f10a"; }
+.flaticon-timing-belt:before { content: "\f10b"; }
+.flaticon-wrench:before { content: "\f10c"; }
+.flaticon-fan:before { content: "\f10d"; }
+.flaticon-phone-auricular-hand-drawn-ringing-tool-outline:before { content: "\f10e"; }
+.flaticon-placeholder:before { content: "\f10f"; }
+.flaticon-message:before { content: "\f110"; }
+.flaticon-settings:before { content: "\f111"; }
+.flaticon-headphones:before { content: "\f112"; }
+.flaticon-home:before { content: "\f113"; }
